@@ -201,3 +201,7 @@ SENTRY_DSN=https://e914ee84fd895c4fe324afa3e53dac76@o4507352570920960.ingest.us.
 > stack memory of each thread at the time of the crash. This information
 > is used to rebuild the stack trace but can also contain sensitive data
 > depending on when the crash occurred.
+
+## Agent Workflow
+
+See [AGENTS.md](./AGENTS.md) for repo-specific development and agent instructions.
